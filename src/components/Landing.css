@@ -1,0 +1,11 @@
+.landing-form{
+    margin: auto;
+    margin-top: 30vh;
+    background-color: grey;
+    width: 24vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+  
+  
+}

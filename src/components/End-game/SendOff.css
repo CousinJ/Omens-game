@@ -1,0 +1,30 @@
+.send-off-main {
+    background: url('https://i.pinimg.com/originals/02/09/43/02094394c4688f7041e6982e2e110125.png');
+    display: flex;
+    flex-direction: column;
+ 
+  height: 100vh;
+}
+
+
+.summary-div {
+    width: 700px;
+    height: 300px;
+    background-color: rgb(37, 37, 42);
+    margin: auto;
+    border-radius: 10px;
+    border-style: double;
+    border-width: 8px;
+    border-color: goldenrod;
+    font-size: larger;
+    color: white;
+    display: flex;
+    
+}
+
+.text-summ {
+  position: relative;
+  top: -50vh;
+  display: flex;
+  flex-direction: column;
+}

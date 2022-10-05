@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Breathe Fire';
+  src: local('Breathe Fire'), url(./fonts/BreatheFire-65pg.ttf) format('truetype');
+}
+
+button {
+  font-family: 'Breathe Fire';
+}
+.App {
+  text-align: center;
+  font-family: 'Breathe Fire' ;
+}
+
+.landing-div {
+ background: url('https://i.pinimg.com/originals/02/09/43/02094394c4688f7041e6982e2e110125.png');
+
+ 
+  height: 100vh;
+ 
+}
+
+
+/* landing styles .... */
+.submit-form-button {
+  background-color: rgb(137, 13, 13);
+  color: rgb(214, 209, 198);
+  border-radius: 10px;
+  border-style: double;
+  border-width: 4px;
+  border-color: goldenrod;
+  font-size: larger;
+  width: 400px;
+}
+
+.submit-form-button:hover {
+  background-color: rgb(34, 3, 3);
+  color: rgb(214, 209, 198);
+  border-radius: 10px;
+  border-style: double;
+  border-width: 8px;
+  border-color: goldenrod;
+  font-size: larger;
+  width: 400px;
+}
+
+.name-input {
+  border-radius: 10px;
+  border-style: double;
+  border-width: 4px;
+  border-color: goldenrod;
+  font-size: x-large;
+  font-family: 'Breathe Fire';
+  background-color: rgb(39, 38, 38);
+  color: white
+  
+}
+
+.landing-title {
+  width: 50%;
+  height: 20vh;
+ background: linear-gradient(rgb(148, 35, 35), black, rgb(109, 8, 109));
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  border-style: double;
+  border-width: 9px;
+  border-color: goldenrod;
+  font-size: x-large;
+  color: goldenrod;
+}

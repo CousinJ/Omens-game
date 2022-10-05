@@ -1,0 +1,179 @@
+
+
+.game-div {
+    width: 100vw;
+    height: 120vh;
+    background-image: url('https://i.pinimg.com/originals/02/09/43/02094394c4688f7041e6982e2e110125.png');
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.side-panel {
+    width: 35vw;
+    height: 115vh;
+    background-color: rgb(59, 58, 58);
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+   
+    
+}
+
+h2{
+    color:darkgoldenrod
+}
+
+.self-bar {
+    border-style: double;
+    border-color: black;
+    width: auto;
+    height: auto;
+    background-color: rgb(59, 58, 58);
+ 
+    
+    
+    
+   
+  
+    
+    
+}
+
+
+
+
+
+.player-container {
+    width: auto;
+    height: 82vh;
+    
+
+}
+
+.player-box {
+    width: auto;
+    height:75px;
+   background: linear-gradient( rgb(63, 28, 97), rgb(13, 17, 51));
+    
+
+}
+
+
+
+
+
+
+
+
+.card-main {
+    
+    width: 60vw;
+    height: 20vh;
+    margin-left: 25px;
+    margin-top: 25px;
+   
+   
+    border-width: 3px;
+    display: flex;
+    flex-direction: row;
+
+    flex-wrap: wrap;
+  
+    
+   
+   
+    
+    
+}
+
+
+
+.card {
+    width: 16vh;
+   height: auto;
+    
+    
+ 
+}
+
+.card-1 {
+    
+    width: 8vw;
+    height: 12vh;
+    background-repeat: no-repeat;
+}
+
+.prophecy-main {
+    background-color:  rgb(32, 22, 53);
+    width: 27vw;
+    height: 19vh;
+    position: relative;
+    left: 50vw;
+   
+    border-right: 3px;
+    bottom: 35%;
+    border-style: outset;
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+
+
+
+
+.proph-slot {
+width: 15vw;
+height:19vh;
+border-style: outset;
+border-color: darkgoldenrod;
+margin: auto;
+background-size: cover;
+}
+
+.prophecy-main-display {
+    
+    width: 64vw;
+    height: 28vh;
+    border-style: groove;
+    
+    display: flex;
+    position: relative;
+    
+    
+}
+
+.character-info {
+    color:rgb(14, 2, 4);
+    text-decoration: overline;
+}
+
+.name-box {
+ border-style: ridge;
+ border-width: 5px;
+ border-color: darkgoldenrod;
+ background-color: rgb(21, 26, 31);
+ width: fit-content;
+ color: darkgoldenrod;
+ margin: auto;
+}
+
+
+.display-container {
+    width: 27vw;
+    height: 19vh;
+    display: flex;
+    margin: auto;
+}
+
+
+.winner-image {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+   
+    
+}

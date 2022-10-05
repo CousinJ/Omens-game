@@ -1,0 +1,20 @@
+.submit-proph{
+
+    
+    height: inherit
+   
+}
+
+
+    
+  
+    
+.submit-proph:hover {
+    margin-top: auto;
+    margin-bottom: auto;
+    width: auto;
+   
+    background-color: brown;
+    background-image: none;
+    height: inherit;
+}
